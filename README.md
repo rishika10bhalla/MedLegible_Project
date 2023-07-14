@@ -1,4 +1,4 @@
-# MedLegible - Interpreting Doctor Notes Using Deep Learning Techniques\
+# MedLegible - Interpreting Doctor Notes Using Deep Learning Techniques
 
 ## Problem Statement
 
