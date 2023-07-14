@@ -20,7 +20,9 @@ We deployed the LSTM model using a Streamlit front-end, allowing users to input 
 ## Repository Structure:
 - data: 
   - Contains the dataset used for the project. 
-  - Link for the dataset: 
+  - Link for the dataset:
+- images:
+  - contains three images file for the front end interface.
 - src: 
   - FinalMinorCode.ipynb: The ipynb file of the whole code with model training.
   - pyfile.py: the FinalMinorCode ipynb file converted into .py file with name pyfile
